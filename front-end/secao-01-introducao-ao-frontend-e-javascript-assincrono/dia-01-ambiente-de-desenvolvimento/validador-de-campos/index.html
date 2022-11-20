@@ -6,6 +6,25 @@
     <title>Validador de Campos</title>
 </head>
 <body>
-    
+    <form action="">
+        <h1>Validador de Campos</h1>
+        <label for="toValidate">Valor para validar: <input type="text" id="toValidate" name="toValidate">
+        </label>
+        <label for="validationType"> Tipo de validação
+            <select name="validationType" id="validationType">
+                <option class="option" value="isAlpha">Contém apenas letras</option>
+                <option class="option" value="isAlphanumeric">Contém apenas letras e números</option>
+                <option class="option" value="isEmail">É um E-mail</option>
+                <option class="option" value="isDate">É uma data</option>
+                <option class="option" value="isInterger">É um número inteiro</option>
+            </select>
+        </label>
+        <label for="validateBtn">
+            <button id="validateBtn" name="validateBtn">Validar</button>
+        </label>
+        <p class="valid not-display">O valor é válido!</p>
+        <p class="not-valid not-display">O valor não é válido!</p>
+    </form>
+    <script type="module" src="./src/main.js"></script>
 </body>
 </html>
