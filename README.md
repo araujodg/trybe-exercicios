@@ -78,3 +78,33 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] 1-4: _Async, await, e testes assíncronos_
 - [x] 1-5: _Projeto - Carrinho de Compras_
 
+##### Seção 2 - Introdução ao React
+
+- [x] 2-1: _'Hello World' no React_
+- [x] 2-2: _Componentes no React_
+- [x] 2-3: _Projeto - Solar System_
+
+##### Seção 3 - Componentes com Estado, Eventos e Formulários com React
+
+- [x] 3-1: _Componentes com Estado e Eventos_
+- [x] 3-2: _Formulários no React_
+- [x] 3-3: _Projeto - Tryunfo_
+
+##### Seção 4 - Ciclo de Vida de Componentes e React Router
+
+- [x] 4-1: _Ciclo de Vida de Componentes_
+- [x] 4-2: _React Router_
+- [x] 4-3: _Projeto - TrybeTunes_
+
+##### Seção 5 - Metodologias Ágeis
+
+- [x] 5-1: _Metodologias Ágeis_
+- [x] 5-2: _Projeto - Front-end Online Store_
+
+##### Seção 6 - Testes Automatizados com React Testing Library
+
+- [x] 6-1: _Primeiros Passos_
+- [x] 6-2: _Mocks e Inputs_
+- [x] 6-3: _Testando React Router_
+- [x] 6-4: _Projeto - Testes em React_
+
